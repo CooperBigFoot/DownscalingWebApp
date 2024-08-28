@@ -76,11 +76,6 @@ Onačillová, K.; Gallay, M.; Paluba, D.; Péliová, A.; Tokarčík, O.; Laubert
 │   ├── lst_downscaling.py
 │   ├── utils.py
 │   └── visualization.py
-└── ui
-├── init.py
-├── charts.py
-├── map_display.py
-└── sidebar.py
 ```
 
 ## Contributing
